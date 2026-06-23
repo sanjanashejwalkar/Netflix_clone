@@ -228,6 +228,8 @@ input{
 }
 
 .movie-list{
+    height: 100px;
+    width: 300px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
